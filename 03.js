@@ -1,0 +1,3 @@
+// Course Summary 
+
+// Programming Basic === > Logic & Conditions === > Loops & Repetitions === > String handling === > Array === > Objects === > Functions === > Functional Programming === > Scope & Closer === > OOP Intro === > OOP with JS === > Prototype === > Prototyping Inheritance === > ES6 === > Error handling === > Asynchronous Programming === > DOM === > PROJECT === > javascript Libraries === > Future Road Map
